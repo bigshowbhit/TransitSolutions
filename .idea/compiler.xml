@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="openmetromaps-markdown-view" />
+        <module name="openmetromaps-lightgeom" />
+        <module name="openmetromaps-raw-station-model-xml" />
+        <module name="openmetromaps-maps-viewer" />
+        <module name="openmetromaps-maps-model-xml-desktop" />
+        <module name="openmetromaps-maps-batik" />
+        <module name="openmetromaps-ui-resources" />
+        <module name="openmetromaps-maps-model-util" />
+        <module name="openmetromaps-gtfs-import" />
+        <module name="openmetromaps-misc-util" />
+        <module name="openmetromaps-ui-selector" />
+        <module name="openmetromaps-xml-dom-abstraction" />
+        <module name="openmetromaps-osm-model-inspector" />
+        <module name="openmetromaps-osm-model-converter" />
+        <module name="openmetromaps-graphml" />
+        <module name="openmetromaps-gtfs-model-converter" />
+        <module name="openmetromaps-station-model-csv-export" />
+        <module name="openmetromaps-maps-model" />
+        <module name="openmetromaps-new-format" />
+        <module name="openmetromaps-raw-station-model" />
+        <module name="openmetromaps-maps-editor" />
+        <module name="openmetromaps-xml-dom-abstraction-desktop" />
+        <module name="openmetromaps-cli" />
+        <module name="openmetromaps-osm-import" />
+        <module name="openmetromaps-osm-model" />
+        <module name="openmetromaps-test-maps-model-xml-desktop" />
+        <module name="openmetromaps-swing-misc" />
+        <module name="openmetromaps-maps-awt" />
+        <module name="openmetromaps-station-model" />
+        <module name="openmetromaps-import-config" />
+        <module name="openmetromaps-maps-morpher" />
+        <module name="openmetromaps-raw-station-model-xml-desktop" />
+        <module name="openmetromaps-test-station-model" />
+        <module name="openmetromaps-maps-model-xml-converter" />
+        <module name="openmetromaps-desktop-util" />
+        <module name="openmetromaps-heavy-util" />
+        <module name="openmetromaps-maps-core" />
+        <module name="openmetromaps-mobidig" />
+        <module name="openmetromaps-line-network-util" />
+        <module name="openmetromaps-maps-model-xml" />
+        <module name="openmetromaps-test-data" />
+        <module name="openmetromaps-osm" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

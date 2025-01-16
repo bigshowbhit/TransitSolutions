@@ -1,0 +1,13 @@
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/TestDocumentPropertiesDialog.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/TestDocumentPropertiesPanel.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/TestLineSelectionDialog.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/TestLinesPanel.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/TestMapEditor.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/TestStationPanel.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/TestViewportPanel.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/algorithms/TestFindConsecutive.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/config/TestPaths.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/config/TestPermanentConfigReader.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/config/TestPermanentConfigWriter.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/config/TestVolatileConfigReader.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/maps-editor/src/test/java/org/openmetromaps/maps/editor/config/TestVolatileConfigWriter.java

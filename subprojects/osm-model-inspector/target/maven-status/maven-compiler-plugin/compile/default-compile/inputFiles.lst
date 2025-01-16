@@ -1,0 +1,13 @@
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/ElementXmlDialog.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/LinePanel.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/LinesCellRenderer.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/LinesListModel.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/ModelInspector.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/TextDialog.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/about/AboutDialog.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/actions/AboutAction.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/actions/AnalyzeLinesAction.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/actions/AnalyzeStopsAction.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/actions/ExitAction.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/actions/ExportModelAction.java
+/Users/shobhitsharma/hw-2024-bigshowbhit-en/subprojects/osm-model-inspector/src/main/java/org/openmetromaps/model/osm/inspector/actions/LicenseAction.java
